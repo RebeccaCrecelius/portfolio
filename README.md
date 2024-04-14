@@ -19,4 +19,12 @@ Tutorial link: https://www.youtube.com/watch?v=gwtfWORCN0U
 
 Still in production.
 
-<img src="![map](https://github.com/RebeccaCrecelius/portfolio-game/assets/159743185/69d52c44-f576-4a24-8f86-081820ea33d8)" width="200" heigh="100">
+## Contact Information
+
+Rebecca A. Crecelius, MFA
+
+Website: [rebeccacrecelius.com](https://www.rebeccacrecelius.com/)  
+Email: info@rebeccacrecelius.com  
+X: [@TheBexcyLife](https://twitter.com/TheBexcyLife)  
+LinkedIn: https://www.linkedin.com/in/rebeccacrecelius/  
+Discord: http://discordapp.com/users/1192830790187364435  
