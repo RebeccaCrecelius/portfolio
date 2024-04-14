@@ -20,7 +20,7 @@ k.loadSprite("map", "./map.png");
 k.setBackground(k.Color.fromHex("#311047"));
 
 k.scene("main", async () => {
-    const mapData = await (await fetch("./map.json")).json();
+    const mapData = await (await fetch("/src/map.json")).json();
     const layers = mapData.layers;
 
     const map = k.add([k.sprite("map"), k.pos(0), k.scale(scaleFactor)]);
@@ -176,9 +176,9 @@ k.onKeyDown((key) => {
     if (nbOfKeyPressed > 1) return;
 
     if (player.isInDialogue) return;
-    if (keyMap[0] {
+    if (keyMap[0]) {
         player.flipX = false;
-        if (player.curAnim() !== "walk-side" player.play("walk-side");
+        if (player.curAnim() !== "walk-side") player.play("walk-side");
         player.direction = "right";
         player.move(player.speed, 0);
         return;
