@@ -3,7 +3,6 @@ export function displayDialogue(text, onDisplayEnd) {
     const dialogue = docuement.getElementById("dialogue");
 
     dialogueUI.style.display = "block";
-
     let index = 0;
     let currentText = "";
     const intervalRef = setInterval(() => {

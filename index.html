@@ -51,7 +51,7 @@ body {
 }
 
 .ui-close-btn {
-	font-family: inherit;
+	font-family: monogram, monospace;
 	border-style: none;
 	border-radius: 3px;
 	padding: 1rem;
@@ -70,12 +70,13 @@ body {
 	display: flex;
 	flex-direction: column;
 	color: black;
-	user-select: none;
+/*	user-select: none; */
 }
 </style>
-    <div id="app"></div>
-      <div id="ui">
+    <div id="app">
+	</div>
         <p class="note">Tap/Click around to move</p>
+		
         <div id="textbox-container" style="display: none">
           <div id="textbox">
             <p id="dialogue" class="ui-text"></p>
