@@ -18,3 +18,5 @@ Tutorial link: https://www.youtube.com/watch?v=gwtfWORCN0U
 ## Project Status
 
 Still in production.
+
+<img src="![map](https://github.com/RebeccaCrecelius/portfolio-game/assets/159743185/69d52c44-f576-4a24-8f86-081820ea33d8)" width="200" heigh="100">
